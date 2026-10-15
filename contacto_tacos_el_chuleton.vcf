@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tacos El Chuletón;;;;
+FN:Tacos El Chuletón
+ORG:Tacos El Chuletón
+TITLE:Taquería
+TEL;TYPE=CELL,VOICE:+527711505183
+EMAIL;TYPE=INTERNET:prueba@example.com
+NOTE:Taquería. Sucursales La Estrella Blanca y Pachuquilla. Horario de lunes a domingo de 9:00 am a 9:00 pm.
+X-ABShowAs:COMPANY
+END:VCARD
